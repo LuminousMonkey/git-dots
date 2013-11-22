@@ -1,0 +1,16 @@
+[color]
+        ui = auto
+        diff = auto
+        status = auto
+        branch = auto
+        interactive = auto
+        pager = true
+
+[color "diff"]
+        new = green
+        old = yellow
+
+[merge]
+        tool = vimdiff
+[diff]
+        tool = vimdiff
