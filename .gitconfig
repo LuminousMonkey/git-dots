@@ -23,5 +23,6 @@
 	name = Mike Aldred
 [push]
 	default = simple
+
 [credential]
 	helper = gnome-keyring
