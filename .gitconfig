@@ -18,3 +18,10 @@
     diff = auto
     interactive = auto
     status = auto
+[user]
+	email = mike.aldred@luminousmonkey.org
+	name = Mike Aldred
+[push]
+	default = simple
+[credential]
+	helper = gnome-keyring
