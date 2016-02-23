@@ -19,10 +19,17 @@
     interactive = auto
     status = auto
 [user]
-	email = mike.aldred@luminousmonkey.org
-	name = Mike Aldred
+  email = mike.aldred@luminousmonkey.org
+  name = Mike Aldred
 [push]
-	default = simple
+  default = simple
 
 [credential]
-	helper = gnome-keyring
+  helper = gnome-keyring
+
+[transfer]
+        fsckobjects = true
+[fetch]
+        fsckobjects = true
+[receive]
+        fsckObjects = true
