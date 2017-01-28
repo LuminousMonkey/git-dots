@@ -19,8 +19,8 @@
     interactive = auto
     status = auto
 [user]
-  email = mike.aldred@luminousmonkey.org
-  name = Mike Aldred
+	email = mike.aldred@luminousmonkey.org
+	name = Mike Aldred
 [push]
   default = simple
 
